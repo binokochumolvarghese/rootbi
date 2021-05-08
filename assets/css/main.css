@@ -934,10 +934,7 @@ h4.see-also {
 }
 
 .single-post-card:hover {
-  box-shadow: 0 40px 40px 
-  rgba(0,0,0,.16);
-  transform: translate(0,-5px);
-  transition-delay: 0s !important;
+  box-shadow:  0 40px 40px rgba(0,0,0,.16); 
 }
 
 .card-image {
