@@ -825,10 +825,8 @@ h4.see-also {
   font-size: 25px;
   text-align: center;
   transition: all 150ms ease-in-out;
-  /* color: #fff; */
 }
  ul.share li a {
-  background-color: #eceaea;
   display: block;
   border-radius: 50%;
   text-decoration: none !important;
