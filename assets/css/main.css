@@ -920,7 +920,6 @@ h4.see-also {
 .single-post-card{
   background-color: white;
   text-align: left;
-  margin: 2%;
   box-shadow: 0 20px 20px rgba(0,0,0,.08);
   white-space: normal;
   -webkit-transition: all 250ms cubic-bezier(.02, .01, .20, 1);
@@ -928,7 +927,6 @@ h4.see-also {
   transition: all 250ms cubic-bezier(.02, .01, .20, 1);
   transition-delay: 0s;
   color: #4B4F56;
-  border: 0px ;
 }
 
 .single-post-card:hover {
