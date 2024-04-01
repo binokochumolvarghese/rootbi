@@ -71,6 +71,10 @@ hr.small {
   background-color: rgb(226 232 240);
 }
 
+.bg-gray-100	{
+  background-color: rgb(243 244 246);
+}
+
 .bg-orange-50	{
   background-color: rgb(255 247 237);
 }
@@ -90,7 +94,7 @@ hr.small {
 .background-img {
   /* background-color: #f8f9fb !important; */
   background-image: url("../img/common/topography.svg") !important;
-  background-size: 700px !important;
+  background-size: 1000px !important;
 }
 
 .fc-orange-300 {
